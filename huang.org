@@ -1,0 +1,5 @@
+* huang
+#+BEGIN_SRC emacs-lisp
+  (setq make-backup-files nil)
+#+END_SRC
+** huanghuahg
