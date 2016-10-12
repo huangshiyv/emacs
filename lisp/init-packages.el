@@ -13,6 +13,7 @@
 			  smartparens
 			  js2-mode
 			  popwin
+			  magit
 			  ) "Default packages")
 (setq package-selected-packages shuang/packages)
 
