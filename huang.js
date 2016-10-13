@@ -1,14 +1,17 @@
-var myfunc = function(){
-    console.log("huang shiyu!!!!!");
-       dfdf
+function add() {
+    var a =1;
+    var b =2;
+}
+
+var ojb = {
+    func1 : function() {
+    },
+    func2 : function() {
+        add();
+    }
 };
 
-var myfunc = function(){
-    console.log("huang shiyu!!!!!");
-       dfdf
-};
-var myfunc = function(){
-    console.log("huang shiyu!!!!!");
-       dfdf
-};
-myfunc();
+function sayhello() {
+    console.log("Heelo");
+}
+
